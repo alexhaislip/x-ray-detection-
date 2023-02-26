@@ -1,0 +1,6 @@
+0 Brain Cancer detected
+1 Healthy brain
+2 Broken arm
+3 broken leg
+4 broken hand
+5 Broken foot
